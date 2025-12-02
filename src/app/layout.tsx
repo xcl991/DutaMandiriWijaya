@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     description: "AI-powered development with modern React stack",
   },
   verification: {
-    facebook: "5n0qw9av5ygo9c2ra9jl41t4kttdp4",
+    facebook: "3pwfalcahdm8rtisdi42zobcfm8igg",
   },
 };
 
@@ -48,7 +48,7 @@ export default function RootLayout({
       <head>
         <meta
           name="facebook-domain-verification"
-          content="5n0qw9av5ygo9c2ra9jl41t4kttdp4"
+          content="3pwfalcahdm8rtisdi42zobcfm8igg"
         />
       </head>
       <body
